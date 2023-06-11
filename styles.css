@@ -64,4 +64,22 @@ p{
         padding: 0;
         text-align: center;
     }
+    .col-6{
+        width: 100%;
+    }
+}
+.about-section{
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.about-section h1{
+    font-size: 46px;
+}
+.about-section h2 {
+    font-size: 16px;
+    font-family:var(--default-font-family) ;
+}
+.about-section-content{
+    margin: 30px;
 }
